@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MatriceUI</string>
+    <string name="teaser_text">Welcome to the Wild Code School</string>
+    <string name="checkbox">Yes, I want to be a Wilder</string>
+    <string name="firstname_hint">Firstname</string>
+    <string name="lastname_hint">Lastname</string>
+    <string name="button_validate">ACCEPT</string>
+    <string name="title">Quête Java UI</string>
+</resources>
